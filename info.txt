@@ -1,0 +1,4 @@
+This allows you to set a grid of motion detection spots using a cam.
+The continuous motion over a spot increases the motion value of the sensor (useful to be used like forces)
+
+This library was first developed to be used in the Project FeedNPlay — https://feednplay.dei.uc.pt
